@@ -3,15 +3,15 @@ This folder contians the answers to **Assignment 1** of Machine Learning for Quo
 The assignment consists of 2 parts: theory and coding. This folder will contain only code part.
 
 ## TODO:
-- Chapter 2 
+- **Chapter 2**
 - [ ]  1
 	- [ ]  a
 	- [ ] b
 - [ ]  2
-- Chapert 3 
+- **Chapert 3**
 - [ ]  3
 - [ ]  either 2 or 4
-- Chapter 4
+- **Chapter 4**
 - [ ]  1 
 - [ ]  either 2 or 3
 
