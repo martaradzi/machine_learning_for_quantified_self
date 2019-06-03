@@ -5,6 +5,8 @@ The assignment consists of 2 parts: theory and coding. This folder will contain 
 ## TODO:
 - Chapter 2 
 - [ ]  1
+	- [ ]  a
+	- [ ] b
 - [ ]  2
 - Chapert 3 
 - [ ]  3
