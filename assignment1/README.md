@@ -4,16 +4,16 @@ The assignment consists of 2 parts: theory and coding. This folder will contain 
 
 ## TODO:
 - **Chapter 2**
-- [ ]  1
-	- [ ]  a
-	- [ ] b
-- [ ]  2
+- [x]  1
+	- [x]  a
+	- [x] b
+- [x]  2
 - **Chapert 3**
-- [ ]  3
-- [ ]  either 2 or 4
+- [x]  3
+- [x]  either 2
 - **Chapter 4**
-- [ ]  1 
-- [ ]  either 2 or 3
+- [x]  1 
+- [x]  either 2
 
 ## Report 
 Report for this assignemnt can be found here:
