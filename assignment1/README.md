@@ -10,10 +10,10 @@ The assignment consists of 2 parts: theory and coding. This folder will contain 
 - [x]  2
 - **Chapert 3**
 - [x]  3
-- [x]  either 2
+- [x]  2
 - **Chapter 4**
 - [x]  1 
-- [x]  either 2
+- [x]  2
 
 ## Report 
 Report for this assignemnt can be found here:
